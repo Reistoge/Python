@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿#alksdflkasdjflskadjfjlsdafkasldfjasdlfkjsakldfj branch2
+﻿# branch2 add 
 print("Hola Mundo / Hello World")
 # codigo de test branch 2
 # asdlkasldkj
